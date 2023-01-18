@@ -1,2 +1,2 @@
 # bartosz-git-cicd
-#Just for testing
+Just for testing
